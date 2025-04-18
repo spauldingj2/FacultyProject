@@ -22,9 +22,9 @@ Recommendations:
 
 ## Technologies Used
 
-**Python** (Pandas, Numpy, Matplotlib)
-**Jupyter Noteboooks**
-**GitHub**
+- **Python** (Pandas, Numpy, Matplotlib)
+- **Jupyter Noteboooks**
+- **GitHub**
 
 ---
 
